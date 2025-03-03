@@ -1,0 +1,11 @@
+flask
+flask[async]
+flask-cors
+openai
+python-dotenv
+moviepy
+Pillow==9.5.0
+requests
+gTTS
+flask_cors
+deepl
