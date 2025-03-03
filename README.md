@@ -19,7 +19,7 @@ https://vocabvid.netlify.app/
 ### 대표 결과물 (Type 1 - Plan A)
 
 <p align="center">
-    <video src="docs/finalOutput.mp4" width="50%" controls>
+    <video src="docs/finalOutput.mp4" width="50%" controls></video>
 </p>
 
 ### Type 1 시연
@@ -37,7 +37,7 @@ https://vocabvid.netlify.app/
 ### Plan 0 결과물
 
 <p align="center">
-    <video src="docs/plan0Output.mp4" width="50%" controls>
+    <video src="docs/plan0Output.mp4" width="50%" controls></video>
 </p>
 
 ## 주요 기능
